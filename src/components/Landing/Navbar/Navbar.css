@@ -1,0 +1,18 @@
+.logo {
+    border-radius: 50%;
+    border: 2px solid #ffffff;
+    height: 125px;
+    width: 125px;
+}
+
+nav {
+    background-image: url("../../../../public/imagenes/fondo-nav.png");
+}
+
+.nav-link{
+    color: aliceblue;
+    font-size:larger;
+    font-weight: 700;
+    margin-left: 4rem;
+}
+
