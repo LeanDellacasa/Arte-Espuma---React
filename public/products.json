@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "title": "Red Lager",
+      "tipo": "Roja",
+      "price": 700,
+      "description": "Red Lager es una cerveza de sabor acaramelado y de color rojo brillante.",
+      "image": "imagenes/Red-Lager.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Stout",
+      "tipo": "Negra",
+      "price": 800,
+      "description": "Se caracteriza por ser sumamente oscura casi negra, bien tostada .",
+      "image": "imagenes/Stout.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Honey",
+      "tipo": "Rubia",
+      "price": 900,
+      "description": "De color dorado, cuerpo medio, con un intenso aroma y sabor a miel.",
+      "image": "imagenes/honey.jpg"
+    },
+    {
+      "id": 4,
+      "title": "IPA",
+      "tipo": "Ipa",
+      "price": 750,
+      "description": "Las IPA se caracterizan por ser cervezas de alta graduación alcohólica.",
+      "image": "imagenes/ipa.jpg"
+    }
+    
+    
+  ]

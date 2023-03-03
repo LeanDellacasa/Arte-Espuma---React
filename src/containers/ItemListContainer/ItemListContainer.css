@@ -1,13 +1,12 @@
-.portada {
-    color: aliceblue;
+.listContainer {
+    color: rgb(0, 0, 0);
+    padding-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
     width: 100%;
     height: 48rem;
     background-image: url("/public/imagenes/fondo-inicio.jpg"); 
     background-size:100% 100%;   
     background-repeat: no-repeat;
-}
-
-h1{
-    margin-left: 20px;
-    padding-top: 50px;
 }
