@@ -3,7 +3,7 @@ import './Button.css'
 
 const Button = () => {
   return (
-    <button type='button' className='card-button' >Agregar</button>
+    <button type='button' className='card-button' >Comprar</button>
   )
 }
 

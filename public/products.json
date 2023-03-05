@@ -3,34 +3,83 @@
       "id": 1,
       "title": "Red Lager",
       "tipo": "Roja",
-      "price": 700,
+      "price": 699,
       "description": "Red Lager es una cerveza de sabor acaramelado y de color rojo brillante.",
-      "image": "imagenes/Red-Lager.jpg"
+      "image": "https://www.mundocerveza.com/wp-content/uploads/2021/07/Meridiano-Quinto.jpg"
     },
     {
       "id": 2,
       "title": "Stout",
       "tipo": "Negra",
-      "price": 800,
+      "price": 799,
       "description": "Se caracteriza por ser sumamente oscura casi negra, bien tostada .",
-      "image": "imagenes/Stout.jpg"
+      "image": "https://loopulo.com/wp-content/uploads/2022/10/negra-modelo-la-crema-de-la-cerveza-loopulo-00.jpg"
     },
     {
       "id": 3,
       "title": "Honey",
       "tipo": "Rubia",
-      "price": 900,
+      "price": 899,
       "description": "De color dorado, cuerpo medio, con un intenso aroma y sabor a miel.",
-      "image": "imagenes/honey.jpg"
+      "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/093/780/products/honey-d-11-14aded46be6877b8ea15386673210075-640-0.webp"
     },
     {
       "id": 4,
       "title": "IPA",
       "tipo": "Ipa",
-      "price": 750,
+      "price": 749,
       "description": "Las IPA se caracterizan por ser cervezas de alta graduación alcohólica.",
-      "image": "imagenes/ipa.jpg"
+      "image": "https://static.wixstatic.com/media/59d9f2_32a23ac0123e47dba96dfd850ae6e966~mv2.jpg/v1/fill/w_980,h_691,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/59d9f2_32a23ac0123e47dba96dfd850ae6e966~mv2.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Imperial Red",
+      "tipo": "Roja",
+      "price": 899,
+      "description": "Red Lager es una cerveza de sabor acaramelado y de color rojo brillante.",
+      "image": "https://www.mundocerveza.com/wp-content/uploads/2022/07/Imperial-Nueva-Roja-2-scaled.jpg"
+    },
+    {
+      "id": 6,
+      "title": "London Stout",
+      "tipo": "Negra",
+      "price": 849,
+      "description": "Se caracteriza por ser sumamente oscura casi negra, bien tostada .",
+      "image": "https://www.clarin.com/img/2021/01/29/jWYxUld7Y_720x0__1.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Honey 7 Colores",
+      "tipo": "Rubia",
+      "price": 749,
+      "description": "De color dorado, cuerpo medio, con un intenso aroma y sabor a miel.",
+      "image": "https://tienda.cerveza7colores.com.ar/wp-content/uploads/2021/04/5.png"
+    },
+    {
+      "id": 8,
+      "title": "IPA Temple",
+      "tipo": "Ipa",
+      "price": 949,
+      "description": "Las IPA se caracterizan por ser cervezas de alta graduación alcohólica.",
+      "image": "https://cdn.shopify.com/s/files/1/2190/3853/articles/temple_wolf_ipa_1200x.jpg?v=1599593338"
+    },
+    {
+      "id": 9,
+      "title": "IPA Patagonia",
+      "tipo": "Ipa",
+      "price": 889,
+      "description": "Las IPA se caracterizan por ser cervezas de alta graduación alcohólica.",
+      "image": "https://insiderlatam.com/wp-content/uploads/2022/03/ipa-patagonia.png"
+    },
+    {
+      "id": 10,
+      "title": "Stout Quilmes",
+      "tipo": "Negra",
+      "price": 719,
+      "description": "Se caracteriza por ser sumamente oscura casi negra, bien tostada .",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_631731-MLA44492366452_012021-O.webp"
     }
+
     
     
   ]

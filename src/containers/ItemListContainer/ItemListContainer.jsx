@@ -16,7 +16,7 @@ import { useParams } from 'react-router-dom';
       const productFilter = data.filter((products) => tipe ? products.tipo === tipe : products);
       setArrayList(productFilter)
     }).catch((e) => {
-      console.log(e.message);
+      
     });
   } , [tipe]);
 

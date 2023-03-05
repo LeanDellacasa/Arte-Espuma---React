@@ -14,7 +14,7 @@ export const ItemDetailContainer = () => {
         const productFilter = data.find((products) => products.id === id);
         setItem(productFilter)
       }).catch((e) => {
-        console.log(e.message);
+        
       });
     }, [id]);
 
