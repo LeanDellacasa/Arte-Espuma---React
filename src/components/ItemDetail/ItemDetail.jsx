@@ -7,13 +7,13 @@ export const ItemDetail = (item) => {
      <div className='container'>
         <div className='row my-5'>
             <div className='col d-flex align-items-center justify-content-end'>
-                <img src={item.image} alt={item.title}/>
+                <img src={item.item.image} alt={item.item.title}/>
             </div>
             <div className='col d-flex align-items-center'>
                 <div>
-                    <h1>{item.title}</h1>
-                    <p>{item.description}</p>
-                    <p><b>${item.price}</b></p>
+                    <h1>{item.item.title}</h1>
+                    <p>{item.item.description}</p>
+                    <p><b>${item.item.price}</b></p>
                 </div>
             </div>
 

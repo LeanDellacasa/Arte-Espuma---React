@@ -15,7 +15,7 @@ export const App = () => {
         <Routes>
           <Route exact path={"/"} element={<ItemListContainer />}/>
           <Route exact path={"/category/:tipe"} element={<ItemListContainer />}/>
-          <Route exact path={"/producto/:producto.tipe"} element={<ItemDetailContainer />}/>
+          <Route exact path={"/producto/:id"} element={<ItemDetailContainer />}/>
           <Route exact path={"*"} element={<Error404 />}/>
 
         </Routes>

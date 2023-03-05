@@ -11,9 +11,9 @@ const Navbar = () => {
 
     <nav className="navbar navbar-expand-lg bg-body-tertiary">
       <div className="container-fluid">
-      <Link to={"/"}><a className="navbar-brand" >
-          <img src="imagenes/Logo.png" alt="logo" className="logo" />
-        </a></Link>
+      <Link to={"/"} className="navbar-brand" >
+          <img src="http://localhost:3000/imagenes/Logo.png" alt="logo" className="logo" />
+        </Link>
         <button
           className="navbar-toggler"
           type="button"
@@ -28,22 +28,22 @@ const Navbar = () => {
         <div className="collapse navbar-collapse " id="navbarSupportedContent">
           <ul className="navbar-nav me-auto mb-2 mb-lg-0 ">
             <li className="nav-item">
-              <NavLink className="nav-link" activeclassname={"active"} to={"/category/roja"}>
+              <NavLink className="nav-link" activeclassname={"active"} to={"/category/Roja"}>
                 Cerveza Roja
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link" to={"/category/negra"}> 
+              <NavLink className="nav-link" to={"/category/Negra"}> 
                 Cerveza Negra
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link" to={"/category/rubia"}>
+              <NavLink className="nav-link" to={"/category/Rubia"}>
                 Cerveza Rubia
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link" to={"/category/ipa"}>
+              <NavLink className="nav-link" to={"/category/Ipa"}>
                 Cerveza Ipa
               </NavLink>
             </li>            
